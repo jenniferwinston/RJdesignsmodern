@@ -1690,7 +1690,8 @@ form input[type="submit"], form button, form input[type="reset"] {
     .project-item {
       width: 100%; } }
   .project-item img {
-    max-width: 100%;
+    max-width: 349px;
+    max-height: 349px;
     margin-bottom: 20px;
     display: block; }
   .project-item .project-title {
